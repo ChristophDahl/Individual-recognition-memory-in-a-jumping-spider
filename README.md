@@ -9,3 +9,5 @@ Procedure: (1) Load the matlab data structure: SUBJ into your workspace. (2) Rec
 Additional material: Additionally, there are supplementary videos/movies, showing individual comparisons in experiment 1 and 2 (hab. - dishab. [short-term]), and the long-term test at the end of experiment 2.
 
 Suppl. videos 1-3: experiment 1, videos 4-6: experiment 2, videos 7-11: long-term trials after experiment 2.
+
+https://www.biorxiv.org/content/10.1101/2023.11.17.567545v1
